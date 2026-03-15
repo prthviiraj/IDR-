@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+    <g transform="translate(50, 50) scale(0.9)">
+        <!-- Solid Left Face -->
+        <path d="M-34.64,-20 L0,0 L0,40 L-34.64,20 Z" fill="#FF5722" />
+        <!-- Solid Top Left Triangle -->
+        <path d="M0,-40 L0,0 L-34.64,-20 Z" fill="#FFFFFF" />
+        <!-- Digital / Outline Right Structure -->
+        <path d="M0,-40 L34.64,-20 L34.64,20 L0,40" stroke="#FFFFFF" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M34.64,-20 L0,0 L34.64,20" stroke="#FFFFFF" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <!-- Accent node -->
+        <circle cx="17.32" cy="0" r="4.5" fill="#FF5722" />
+    </g>
+</svg>

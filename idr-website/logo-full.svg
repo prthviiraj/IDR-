@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" fill="none">
+    <g transform="translate(45, 50) scale(0.7)">
+        <path d="M-34.64,-20 L0,0 L0,40 L-34.64,20 Z" fill="#FF5722" />
+        <path d="M0,-40 L0,0 L-34.64,-20 Z" fill="#FFFFFF" />
+        <path d="M0,-40 L34.64,-20 L34.64,20 L0,40" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M34.64,-20 L0,0 L34.64,20" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="17.32" cy="0" r="5" fill="#FF5722" />
+    </g>
+    <g transform="translate(90, 44)">
+        <text x="0" y="0" font-family="'Space Grotesk', system-ui, -apple-system, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF" letter-spacing="1">INSTITUTE OF</text>
+        <text x="0" y="22" font-family="'Space Grotesk', system-ui, -apple-system, sans-serif" font-weight="700" font-size="20" fill="#FF5722" letter-spacing="1">DIGITAL RISK</text>
+    </g>
+</svg>
